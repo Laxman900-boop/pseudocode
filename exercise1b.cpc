@@ -1,0 +1,4 @@
+DECLARE Country : STRING
+OUTPUT "Please put your country name:"
+INPUT Country 
+OUTPUT "The name of country is:", Country

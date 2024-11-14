@@ -1,0 +1,4 @@
+DECLARE US dollars : STRING
+OUTPUT "Hello, please enter your name"
+INPUT Firstname
+OUTPUT "Welcome", Firstname
